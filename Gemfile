@@ -12,6 +12,9 @@ gem "puma", "~> 5.0"
 # use active record
 gem "sinatra-activerecord"
 gem "unirest"
+
+gem "http", "~> 5.0"
+
 gem 'middleman'
 
 group :development do
